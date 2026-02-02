@@ -1,4 +1,4 @@
-# Docker Image Layering
+## Docker Image Layering
 
 ### 1. What is a Docker Image Layer?
 
